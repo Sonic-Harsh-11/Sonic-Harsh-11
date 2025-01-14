@@ -1,4 +1,6 @@
 ## Hi there 👋
+## This is Harsh Matlani
+## A student from NIT Raipur Class of 2028, Chemical Engineering
 
 <!--
 **Sonic-Harsh-11/Sonic-Harsh-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
